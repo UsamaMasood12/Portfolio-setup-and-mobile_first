@@ -39,6 +39,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🔭 Future Features](#future-features)      
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -48,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Portfolio setup <a name="about-project"></a>
 
 
-**Portfolio setup** includes the use the of Linters, Git, GitHub, Figma and Visual Studio Code. In this project the i build a basic homepage of personal portfolio. This portfolio is according to the mobile first approach.
+**Portfolio setup** includes my personal porfolio homepage in which header and headline both are included. I desiged this project following the mobile-first approach. It shows a little introduction about me.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,9 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 
 <details>
-  <summary>Git</summary>
+  <summary>Visual Studio Code</summary>
   <ul>
-    <li><a href="https://git-scm.com/">React.js</a></li>
+    <li><a href="https://visualstudio.microsoft.com/"</a></li>
   </ul>
 </details>
 
@@ -77,9 +78,9 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 <details>
-<summary>Visual Studio Code</summary>
+  <summary>Visual Studio Code</summary>
   <ul>
-    <li><a href="https://visualstudio.microsoft.com/">PostgreSQL</a></li>
+    <li><a href="https://visualstudio.microsoft.com/"</a></li>
   </ul>
 </details>
 
@@ -87,12 +88,10 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
-- **Use of Linters**
-- **Correct GitHub flow**
-- **Documented Work**
-- **Use of Figma**
+- **Use of figma templete**
+- **Use of flexbox**
+- **Creation of porfolio Homepage**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -104,6 +103,13 @@ After you're finished please remove all the comments and instructions!
 - Twitter: [@Usama___Masood](https://twitter.com/Usama____Masood)
 - LinkedIn: [Usama Masood](www.linkedin.com/in/usama-masood-b4a35014b)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **I will includes my projects on my portfolio.**
+- [ ] **I will also share my professional experience.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
