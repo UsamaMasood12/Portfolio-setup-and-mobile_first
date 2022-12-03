@@ -1,0 +1,101 @@
+.main-header {
+  width: 375px;
+  height: 120px;
+  background-color: #3c3a39;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.header {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+
+.name {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+  top: 50px;
+  left: 10px;
+}
+
+.menu {
+  position: absolute;
+  top: 50px;
+  left: 330px;
+}
+
+.main1 {
+  background-repeat: no-repeat;
+  background-position: 228px 270px;
+  background-color: #1c1a19;
+  width: 352px;
+  height: 560px;
+  position: absolute;
+  left: 0;
+  top: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 50px 12px;
+  gap: 12px;
+}
+
+.intro {
+  font-family: 'Crete Round', serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px;
+  color: #ff6b00;
+  font-size: 30px;
+}
+
+.profession {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+  position: relative;
+  bottom: 35px;
+}
+
+.services {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  color: white;
+  position: relative;
+  bottom: 15px;
+  font-weight: 200;
+  width: 375px;
+}
+
+.logo {
+  display: flex;
+  list-style-type: none;
+  gap: 15px;
+  position: relative;
+  right: 35px;
+  width: 190px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.container1 {
+  display: flex;
+  justify-content: left;
+  width: 231px;
+}
+
+.container2 {
+  display: flex;
+  justify-content: left;
+}
